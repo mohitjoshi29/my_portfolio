@@ -3,7 +3,7 @@ import ScrollReveal from "./ScrollReveal";
 
 const projects = [
   {
-    title: "Delivery Management Platform",
+    title: "KAYOD-Delivery Management Platform",
     period: "Apr 2025 – Present",
     url: "https://admin.kayodtechnologies.com/en/login",
     tech: ["Next.js", "Tailwind CSS", "Google Maps API", "Firebase"],
